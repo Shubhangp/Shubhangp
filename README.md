@@ -1,3 +1,4 @@
+<img align="center" alt="Banner" width="100%" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://github.com/Shubhangp/Shubhangp/blob/main/Shubhang%20pandey.png)">
 ![MasterHead](https://github.com/Shubhangp/Shubhangp/blob/main/Shubhang%20pandey.png)
 <h1 align="center">Hi 👋🏼, I'm Shubhang Pandey</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
