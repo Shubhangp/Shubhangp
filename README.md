@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shubhangp/](https://github.com/Shubhangp/)
 
-- 📝 I regularly write articles on [https://shubhang-coding.blogspot.com/](https://shubhang-coding.blogspot.com/)
+- 📝 I write articles on [https://shubhang-coding.blogspot.com/](https://shubhang-coding.blogspot.com/)
 
 - 💬 Ask me about **Frontend Development in Javascript, Typescript, React**
 
 - 📫 How to reach me **shubhanggpandey@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shubhang-pandey-608531186/](https://www.linkedin.com/in/shubhang-pandey-608531186/)
+- 📄 Know about my experiences [https://bit.ly/shubhang-cv](https://bit.ly/shubhang-cv)
 
 - ⚡ Fun fact **I think, I am Funny**
 
