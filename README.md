@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/shubhang-pandey-608531186" target="blank"><img align="center" src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="in/shubhang-pandey-608531186"/></a>
+<a href="https://linkedin.com/in/shubhang-pandey-608531186" target="blank"><img align="center" src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="in/shubhang-pandey-608531186"/></a>
 <a href="https://stackoverflow.com/users/22497593" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/stackoverflow.svg" alt="22497593"/></a>
 <a href="https://instagram.com/shubhang.amystery" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/instagram.svg" alt="shubhang.amystery"/></a>
 <a href="https://medium.com/@shubhang-coding" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/medium.svg" alt="@shubhang-coding"/></a>
