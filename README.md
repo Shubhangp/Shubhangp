@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/22497593" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/stackoverflow.svg" alt="22497593"/></a>
 <a href="https://instagram.com/shubhang.amystery" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/instagram.svg" alt="shubhang.amystery"/></a>
 <a href="https://medium.com/@shubhang-coding" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/medium.svg" alt="@shubhang-coding"/></a>
-<a href="https://www.youtube.com/c/shubhang coding" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/youtube.svg" alt="shubhang coding"/></a>
+<a href="https://www.youtube.com/channel/UC0QuvLvEowt7Rnby-_6Jwow" target="blank"><img align="center" src="https://github.com/Shubhangp/Shubhangp/blob/main/youtube.svg" alt="Shubhang Coding"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
